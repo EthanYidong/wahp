@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "wahp-core",
+    "wahp-server",
+    "wahp-test",
+]
